@@ -1,0 +1,20 @@
+{
+  "name": "sd-jwt-vcdm-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsx ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1",
+  "dependencies": {
+    "@sd-jwt/core": "^0.15.0",
+    "@sd-jwt/crypto-nodejs": "^0.15.0",
+    "@sd-jwt/types": "^0.15.0",
+    "@sd-jwt/utils": "^0.15.0",
+    "tsx": "^4.20.5"
+  }
+}
