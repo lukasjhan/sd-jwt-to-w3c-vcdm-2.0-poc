@@ -12,6 +12,19 @@ For more details about the SD-JWT and VCDM 2.0, you can check the following link
 - [SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 - [SD-JWT VC](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/)
 
+## Installation
+
+```bash
+pnpm install
+```
+
+## Usage
+
+```bash
+// you can simply run the test and see the output
+pnpm run test
+```
+
 ## Details
 
 ### Payload
@@ -82,19 +95,6 @@ eyJ0eXAiOiJ2YytzZC1qd3QiLCJraWQiOiJrZXlJZC0xIiwiY3R5IjoidmMiLCJhbGciOiJFUzI1NiJ9
     }
   ]
 }
-```
-
-## Installation
-
-```bash
-pnpm install
-```
-
-## Usage
-
-```bash
-// you can simply run the test and see the output
-pnpm run test
 ```
 
 ## Contributing
